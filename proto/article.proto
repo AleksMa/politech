@@ -1,0 +1,4 @@
+message Article {
+  optional string Title = 1;
+  optional string Text = 2;
+}
